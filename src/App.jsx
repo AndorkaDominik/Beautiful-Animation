@@ -1,4 +1,5 @@
 import './App.css'
+import debug from './debug.jsx'
 
 function App() {
   return (
