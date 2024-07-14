@@ -10,10 +10,10 @@ The animation involves three overlapping shapes that move, scale, and rotate in 
 
 ## Technologies Used
 
-- **React.js:** 
-- **HTML5:**
-- **CSS3:**
-- **JavaScript:** 
+- **React.js** 
+- **HTML5**
+- **CSS3**
+- **JavaScript** 
 
 ### Background Shape (Span 1):
 
