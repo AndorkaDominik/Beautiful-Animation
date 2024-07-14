@@ -2,9 +2,18 @@
 
 The animation project displays a pair of shapes moving in a continuous loop with scaling and rotating effects. The background is set to a dark theme to highlight the animation. The text elements are styled for a clean, modern look.
 
+![Beautiful Animation Gif](./.github/preview.gif)
+
 ## Animation Details
 
 The animation involves three overlapping shapes that move, scale, and rotate in a synchronized pattern:
+
+## Technologies Used
+
+- **React.js:** 
+- **HTML5:**
+- **CSS3:**
+- **JavaScript:** 
 
 ### Background Shape (Span 1):
 
